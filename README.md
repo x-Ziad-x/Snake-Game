@@ -20,9 +20,6 @@ A classic Snake game built with Python's Tkinter library.
 - Download the EXE file from Releases
 - Double-click to play
 
-## Controls
--Use KeyBoard arrows to move the Snake
-
 ## Requirements
 - Python 3.x (for source code)
 - Tkinter (comes with Python)
