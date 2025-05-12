@@ -15,7 +15,7 @@ A classic Snake game built with Python's Tkinter library.
 - Dark theme interface
 
 ## Installation
-1. **Python Version**: 
+1. **Python Version**: run the file SnakeGame.py after installing python
 2. **EXE Version**:
 - Download the EXE file from Releases
 - Double-click to play
